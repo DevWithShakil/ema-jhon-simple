@@ -3,3 +3,13 @@
     top: 0;
     padding: 30px 20px;
 }
+.cart h4{
+    background-color: #FF9900;
+    width: 180px;
+    height: 48px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 10px;
+    align-items: center;
+    color: white;
+}
